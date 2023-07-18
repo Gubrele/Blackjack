@@ -1,0 +1,26 @@
+h1 {
+    color: goldenrod;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 32px;
+    background-image: url("58471.jpg");
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+}
+#massage-el{
+    font-style: italic;
+}
+
+button{
+    color: #016f32;
+    width: 300px;
+    background: goldenrod;
+    font-size: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
